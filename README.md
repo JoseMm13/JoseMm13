@@ -1,12 +1,15 @@
 # Hello developers, I'm JMELTY 👋
 
-### 💻 Software Development Student | Future Full Stack Developer
+<div align="justify">
+
+### 💻 Software Development Student | Aspiring Full Stack Developer
 
 I am a Software Development student from Spain.
 
-I enjoy building web applications, learning new technologies and improving my programming skills every day. 
+I enjoy building web applications, learning new technologies and improving my programming skills every day.
 I like solving problems and working on real projects.
 
+</div>
 ---
 
 # 👨‍💻 About Me
