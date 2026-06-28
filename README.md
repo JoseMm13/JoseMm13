@@ -1,4 +1,4 @@
-# Hello developers, I'm  <JMELTY> 👋
+# Hello developers, I'm JMELTY 👋
 
 ### 💻 Software Development Student | Future Full Stack Developer
 
