@@ -56,8 +56,14 @@ I can:
 
 ## 🧰 Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,atlassian" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" alt="Visual Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" alt="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" alt="Jira"/>
+  <img src="https://cdn.simpleicons.org/trello/0052CC" width="45" alt="Trello"/>
 </p>
 
 ## 🚀 Projects
