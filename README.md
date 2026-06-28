@@ -76,9 +76,9 @@ I can:
 
 <p align="center">
 
-<img height="170" src="[https://github-readme-stats.vercel.app/api?username=<USERNAME>&show_icons=true&theme=github_dark&hide_border=true](https://github.com/JoseMm13)"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JoseMm13&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&layout=compact&theme=github_dark&hide_border=true](https://github.com/JoseMm13)"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMm13&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -88,7 +88,7 @@ I can:
 
 <p align="center">
 
-<img src="[https://streak-stats.demolab.com?user=<USERNAME>&theme=github-dark-blue&hide_border=true](https://github.com/JoseMm13)"/>
+<img src="https://streak-stats.demolab.com?user=JoseMm13&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
