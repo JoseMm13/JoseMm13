@@ -57,8 +57,12 @@ I can:
 ## 🧰 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,jira" />
 </p>
+
+<a href="https://www.atlassian.com/software/jira" target="_blank">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+</a>
 
 ## 🚀 Projects
 
