@@ -62,37 +62,6 @@ I can:
 
 ---
 
-# 🎓 Education
-
-## Higher National Diploma in Software Development (DAM)
-
-### First Year (960 hours)
-
-Subjects:
-
-* Computer Systems
-* Databases
-* Programming
-* Markup Languages and Information Management Systems
-* Development Environments
-* Professional English
-* Employability
-* Intermodular Project
-
-Currently studying in a blended learning programme.
-
----
-
-# 💼 Professional Experience
-
-## NTT DATA
-
-**Work Placement (200 hours)**
-
-During my placement I had the opportunity to work in a professional software development environment, improving both my technical and teamwork skills.
-
----
-
 # 🚀 Current Goals
 
 * Improve my C# and Java skills.
@@ -107,9 +76,9 @@ During my placement I had the opportunity to work in a professional software dev
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=<USERNAME>&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="[https://github-readme-stats.vercel.app/api?username=<USERNAME>&show_icons=true&theme=github_dark&hide_border=true](https://github.com/JoseMm13)"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&layout=compact&theme=github_dark&hide_border=true](https://github.com/JoseMm13)"/>
 
 </p>
 
@@ -119,7 +88,7 @@ During my placement I had the opportunity to work in a professional software dev
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=<USERNAME>&theme=github-dark-blue&hide_border=true"/>
+<img src="[https://streak-stats.demolab.com?user=<USERNAME>&theme=github-dark-blue&hide_border=true](https://github.com/JoseMm13)"/>
 
 </p>
 
@@ -127,8 +96,8 @@ During my placement I had the opportunity to work in a professional software dev
 
 # 📫 Contact
 
-* GitHub: https://github.com/<USERNAME>
-* LinkedIn: <YOUR LINKEDIN>
+* GitHub: https://github.com/JoseMm13>
+* LinkedIn: <www.linkedin.com/in/josé-ángel-garcía-martínez-9b1001304>
 * Email: <YOUR EMAIL>
 
 ---
