@@ -97,8 +97,8 @@ I can:
 # 📫 Contact
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jos%C3%A9-%C3%A1ngel-garc%C3%ADa-mart%C3%ADnez-9b1001304/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-%C3%A1ngel-garc%C3%ADa-mart%C3%ADnez-9b1001304/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 
   <a href="https://github.com/JoseMm13">
