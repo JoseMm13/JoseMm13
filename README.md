@@ -54,15 +54,36 @@ I can:
 
 ---
 
-## Tools
+## 🧰 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea" />
 </p>
 
+## 🚀 Projects
+
+### 📘 Git & GitHub Guide
+
+A practical guide explaining how to use Git and GitHub, including repositories, branches, commits, pull requests and the most common commands.
+
+**Technologies:** Git, GitHub, Markdown
+
+🔗 Repository:
+https://github.com/JoseMm13/HowToUseGit-GitHub.git
+
+### 📘 Guide How to use JIRA
+
+A practical guide explaining how to use JIRA, including installation and account creation. 
+And resolving common account creation errors
+
+**Technologies:** JIRA
+
+🔗 Repository:
+https://github.com/JoseMm13/Intermodular-Project-Web-Application-Development-1CFSI.git
+
 ---
 
-# 🚀 Current Goals
+# Current Goals
 
 * Improve my C# and Java skills.
 * Learn ASP.NET and Spring Boot.
