@@ -57,12 +57,8 @@ I can:
 ## 🧰 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,jira" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,atlassian" />
 </p>
-
-<a href="https://www.atlassian.com/software/jira" target="_blank">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-</a>
 
 ## 🚀 Projects
 
@@ -80,7 +76,10 @@ https://github.com/JoseMm13/HowToUseGit-GitHub.git
 A practical guide explaining how to use JIRA, including installation and account creation. 
 And resolving common account creation errors
 
-**Technologies:** JIRA
+**Technologies:** 
+<a href="https://www.atlassian.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+</a>
 
 🔗 Repository:
 https://github.com/JoseMm13/Intermodular-Project-Web-Application-Development-1CFSI.git
