@@ -6,7 +6,7 @@ In case you would simply like a public badge to count your visitors on your pers
 </a>
 
 [Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+[GitHub Profile Views Counter]: https://github.com/JoseMm13/github-profile-views-counter
 
 ![](https://hit.yhype.me/github/profile?account_id=1849174)
 
