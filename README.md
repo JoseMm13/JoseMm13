@@ -116,15 +116,6 @@ https://github.com/JoseMm13/Intermodular-Project-Web-Application-Development-1CF
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=JoseMm13&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
 
 # 📫 Contact
 
