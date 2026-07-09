@@ -104,20 +104,23 @@ https://github.com/JoseMm13/Intermodular-Project-Web-Application-Development-1CF
 
 ---
 
-# 📊 GitHub Stats
-
 <div align="center">
 
-  <img height="170" 
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseMm13&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1" />
-
-  <img height="170" 
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseMm13&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1" />
-
-  <img height="170"
-       src="https://streak-stats.demolab.com?user=JoseMm13&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <table>
+    <tr>
+      <td>
+        <img height="170"
+             src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseMm13&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1" />
+      </td>
+      <td>
+        <img height="170"
+             src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseMm13&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1" />
+      </td>
+    </tr>
+  </table>
 
 </div>
+
 
 ---
 
