@@ -148,7 +148,14 @@ https://github.com/JoseMm13/Intermodular-Project-Web-Application-Development-1CF
 
 ---
 
+
 ⭐ Thank you for visiting my profile!
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=JoseMm13&style=for-the-badge&color=blue" />
+
+</div>
+
 
 
 
