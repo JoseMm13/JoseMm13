@@ -103,24 +103,15 @@ https://github.com/JoseMm13/Intermodular-Project-Web-Application-Development-1CF
 * Improve my English.
 
 ---
-# 📊 GitHub Stats
 
-<div align="center">
+### ⚙️ &nbsp;GitHub Analytics
 
-  <table>
-    <tr>
-      <td>
-        <img height="150"
-             src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseMm13&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1" />
-      </td>
-      <td>
-        <img height="150"
-             src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseMm13&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1" />
-      </td>
-    </tr>
-  </table>
-
-</div>
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 ---
